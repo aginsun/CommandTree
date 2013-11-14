@@ -1,0 +1,19 @@
+[
+{
+  "modid": "CommandTree",
+  "name": "CommandTree",
+  "description": "A command block balanced for a modded environment!",
+  "version": "0.0.1",
+  "credits": "",
+  "logoFile": "",
+  "mcversion": "1.6.4",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "Aginsun" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
